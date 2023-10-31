@@ -1,3 +1,5 @@
 title: Arsalan Hashemi
-#logo: /img/me.jpg
+logo: /img/me.jpg
+description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
