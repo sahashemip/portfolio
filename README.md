@@ -1,6 +1,3 @@
-&bg_color=DEG
-
-
 ### Hi there 👋
 
 
