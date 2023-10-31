@@ -1,17 +1,29 @@
 ### Hi there 👋
 
 
-### Skills and Experience
+# Data Scientist
 
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-### Projects
+## Education
+- Ph.D., Engineering Physics | Aalto University (2023)								       		
+- M.S., Solid-sate Physics	| Isfahan University Technology (_December 2019_)	 			        		
+- B.S., Physics | Mazandaran University (_May 2017_)
 
+## Work Experience
+**PostDoctoral researcher @ Aalto Univerity (Aug. 2020 - Present_)**
+- 
+- 
 
-### Educations
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-
+## Publications
 
 
 ### Stats
