@@ -15,7 +15,7 @@ portfolio
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahashemip&show_icons=true&theme=tokyonight&bg_color=251f84)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahashemip&show_icons=true&theme=tokyonight&bg_color=d2e2d7&text_color=020106)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahashemip&show_icons=true&theme=tokyonight&bg_color=d2e2d7&text_color=020106&icon_color=020106)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahashemip&show_icons=true&theme=tokyonight&bg_color=#6964BF)
 
